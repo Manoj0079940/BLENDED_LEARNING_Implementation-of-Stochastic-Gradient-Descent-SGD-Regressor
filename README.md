@@ -10,18 +10,19 @@ To write a program to implement Stochastic Gradient Descent (SGD) Regressor for 
 
 ## Algorithm
 1.Import the necessary libraries.
+
 2.Load the dataset.
+
 3.Preprocess the data (handle missing values, encode categorical variables).
+
 4.Split the data into features (X) and target (y).
+
 5.Divide the data into training and testing sets. 6.Create an SGD Regressor model. 7.Fit the model on the training data. 8.Evaluate the model performance. 9.Make predictions and visualize the results.
 
 ## Program:
 ```
-/*
-Program to implement SGD Regressor for linear regression.
 Developed by: MANOJ M
 RegisterNumber:  212223230122
-*/
 
 # Importing necessary libraries
 import pandas as pd
